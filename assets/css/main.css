@@ -1670,6 +1670,14 @@
 		text-align: center;
 	}
 
+	header.special-alt2 {
+		margin-bottom: 5em;
+		/*padding-top: 2em;*/
+		position: relative;
+		text-align: center;
+		font-size: 125%;
+	}
+
 		header.special:before, header.special:after {
 			border-bottom: solid 1.5px;
 			border-top: solid 1.5px;
