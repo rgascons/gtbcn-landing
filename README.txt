@@ -1,1 +1,1 @@
-Test it at: http://rgascons.cc/gtbcn-landing/
+Landing page for GTBCN Hackathon
