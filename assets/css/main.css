@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
+@import url("https://fonts.googleapis.com/css?family=Advent+Pro:400,100,700");
 
 /*
 	Twenty by HTML5 UP
@@ -1575,7 +1575,7 @@
 
 	body, input, select, textarea {
 		color: #7c8081;
-		font-family: 'Lato', sans-serif;
+		font-family: 'Advent Pro', sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
 		letter-spacing: 0.025em;
@@ -2264,7 +2264,7 @@
 					#header nav ul li.submenu > a:before {
 						-moz-osx-font-smoothing: grayscale;
 						-webkit-font-smoothing: antialiased;
-						font-family: FontAwesome;
+						font-family: 'Advent Pro';
 						font-style: normal;
 						font-weight: normal;
 						text-transform: none !important;
@@ -2887,7 +2887,7 @@
 					#navButton .toggle:before {
 						-moz-osx-font-smoothing: grayscale;
 						-webkit-font-smoothing: antialiased;
-						font-family: FontAwesome;
+						font-family: 'Advent Pro';
 						font-style: normal;
 						font-weight: normal;
 						text-transform: none !important;
